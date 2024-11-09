@@ -27,4 +27,8 @@ The testPerformanceGlitchUserFlow.js script simulates a user with a performance 
 In testStandardUserFlow.js, a standard user logs in, selects items, checks out, and completes a purchase. This script also verifies the total price and success message.
 
 Author
+<<<<<<< HEAD
 Zakir Hossain
+=======
+Zakir Hossain
+>>>>>>> 047c866 (Initial commit)
